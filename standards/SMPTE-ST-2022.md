@@ -6,7 +6,7 @@
 - [SMTPE ST 2022](#smtpe-st-2022)
   - [Contents](#contents)
   - [The Standard](#the-standard)
-  - [Documents](#documents)
+  - [Specifications](#specifications)
     - [ST 2022-1:2007 “Forward Error Correction for Real-Time Video/Audio Transport Over IP Networks”](#st-2022-12007-forward-error-correction-for-real-time-videoaudio-transport-over-ip-networks)
     - [ST 2022-2:2007 “Unidirectional Transport of Constant Bit Rate MPEG-2 Transport Streams on IP Networks”](#st-2022-22007-unidirectional-transport-of-constant-bit-rate-mpeg-2-transport-streams-on-ip-networks)
     - [ST 2022-3:2010 “Unidirectional Transport of Variable Bit Rate MPEG-2 Transport Streams on IP Networks”](#st-2022-32010-unidirectional-transport-of-variable-bit-rate-mpeg-2-transport-streams-on-ip-networks)
@@ -23,7 +23,7 @@
 ## The Standard
 The SMPTE ST 2022 suite of standards provides a reliable way of using IP to transmit signals that were traditionally sent over serial interfaces.
 
-## Documents
+## Specifications
 
 ### [ST 2022-1:2007 “Forward Error Correction for Real-Time Video/Audio Transport Over IP Networks”](https://ieeexplore.ieee.org/document/7291470)
 Defines a forward error correction technique for the carriage of real-time Video/Audio content over IP networks. <details><summary>Rough Explanation</summary>_Defines row/column FEC (Forward Error Correction) for IP video streams. Along with Section 2, this standard has been widely implemented. Row/Column FEC works by grouping IP video packets into logical rows and columns, and then appending one FEC packet to each row and each column.[[1]](https://web.archive.org/web/20151208160422/http://www.tvtechnology.com/insight/0083/smpte--and-the-future-of-video-over-ip/220188)_</details>

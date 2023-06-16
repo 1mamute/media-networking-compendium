@@ -6,7 +6,7 @@
 - [SMTPE ST 2110](#smtpe-st-2110)
   - [Contents](#contents)
   - [The Standard](#the-standard)
-  - [Documents](#documents)
+  - [Specifications](#specifications)
     - [ST 2110-10:2017 "System Timing and Definitions"](#st-2110-102017-system-timing-and-definitions)
     - [ST 2110-20:2017 "Uncompressed Active Video"](#st-2110-202017-uncompressed-active-video)
     - [ST 2110-30:2017 "PCM Digital Audio"](#st-2110-302017-pcm-digital-audio)
@@ -18,6 +18,7 @@
   - [Recommended Practices](#recommended-practices)
     - [RP 2110-23:2019 "Single Video Essence Transport over Multiple ST 2110-20 Streams"](#rp-2110-232019-single-video-essence-transport-over-multiple-st-2110-20-streams)
     - [SMPTE RP 2110-25](#smpte-rp-2110-25)
+    - [JT-NM TR1001-1 "System Environment and Device Behaviors for ST 2110 Media Nodes in Engineered Networks"](#jt-nm-tr1001-1-system-environment-and-device-behaviors-for-st-2110-media-nodes-in-engineered-networks)
 
 
 ## The Standard
@@ -25,7 +26,7 @@
 The SMPTE ST 2110 suite of standards specifies the carriage, synchronization, and description of separate elementary essence streams over IP for real-time media applications. Each stream is individually timed by the ST 2110 system and can take different routes over the networked fabric to arrive via unicast or multicast at one or more receivers. The audio-video-data synchronization using PTP clocks ensures that the accurate synchronization of all streams regardless of how the packets were routed.
 
 
-## Documents
+## Specifications
 ### [ST 2110-10:2017 "System Timing and Definitions"](https://ieeexplore.ieee.org/document/8165974)
 This family of engineering documents defines an extensible system of RTP-based essence streams referenced to a common reference clock, in a manner which specifies their timing relationships. — This standard specifies the system timing model and the requirements common to of all of the essence streams. <details><summary>Rough Explanation</summary>_defines transport layer and synchronization (SMPTE2059, clocks, RTP, SDP etc.)[[1]](https://www.aimsalliance.org/wp-content/uploads/2019/02/4.-AIMS-Reception-ISE-2019-ST2110-explained-Hildebrand.pdf)_</details>
 
@@ -58,3 +59,6 @@ The document proposes a methodology to (i) split high bandwidth single video ess
 2110-20 tributary streams(constraints, grouping, addressing, RTP timestamps, SDP …)[[1]](https://www.aimsalliance.org/wp-content/uploads/2019/02/4.-AIMS-Reception-ISE-2019-ST2110-explained-Hildebrand.pdf)_</details>
 
 ### SMPTE RP 2110-25
+
+### [JT-NM TR1001-1 "System Environment and Device Behaviors for ST 2110 Media Nodes in Engineered Networks"](https://static.jt-nm.org/documents/JT-NM_TR-1001-1_2020_v1.1.pdf)
+Technical Recommendation paper from JT-NM with a "goal to enable the creation of network environments where an end-user can take delivery of (recommended) equipment, connect it to their network, and configure it for use, with a minimum amount of human interaction."
