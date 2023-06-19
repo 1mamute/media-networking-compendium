@@ -1,0 +1,9 @@
+- https://github.com/kgrow/AES67/wiki
+- https://aes67.app/
+- https://www.collabora.com/news-and-blog/blog/2017/04/25/receiving-an-aes67-stream-with-gstreamer/
+- https://bitbucket.org/MergingTechnologies/ravenna-alsa-lkm/src/master/
+- https://github.com/bondagit/aes67-linux-daemon
+- "Yes, sadly, the performance of the Linux kernel stack is completely inadequate for high bitrate video streaming over UDP. The solution is to use a userspace networking stack. There are a couple of solutions out there. But anything not bypassing the Linux kernel is probably many many years away. The whole networking stack in Linux was really not designed for that."
+- https://en.wikipedia.org/wiki/AES67
+- https://www.reddit.com/r/CommercialAV/comments/jsz5ei/av_over_ip_standards_and_training/
+- https://aimsalliance.org/wp-content/uploads/2020/02/AIMS-ISE2020-Overview-on-essential-IPMX-ingredients-Hildebrand.pdf

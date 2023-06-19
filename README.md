@@ -109,6 +109,9 @@ IPMX (Internet Protocol Media Experience) is a proposed set of open standards an
 ## Video Rendering
 - [Viz Engine](https://www.vizrt.com/products/viz-engine/): SMPTE ST 2110 And NMOS compatible Real Time Video Renderer
 
+## AES50
+## MADI
+## AVB
 ## SAP
 ## IEEE 1588v2
 ## PTP & PTPv2
@@ -134,7 +137,7 @@ Specifications:
 - https://github.com/kylophone/xplay
 ## WebRTC
 ## RTP
-- [Awesome Real Time Communication](https://github.com/rtckit/awesome-rtc) 
+- [Awesome Real Time Communication](https://github.com/rtckit/awesome-rtc)
 - https://github.com/njh/mast
 ## Midi Over IP
 ## Usb Over IP
@@ -143,7 +146,7 @@ Specifications:
 ## Dante
 Specifications:
 - https://github.com/chris-ritsen/network-audio-controller
-  
+
 ![](dante_protocol.png)
 [source](https://www.audiosciencereview.com/forum/index.php?threads/why-is-there-no-toslink-2-0.22204/post-737325)
 ## mDNS
@@ -167,7 +170,8 @@ Specifications:
 - AVIXA
 - AVNU
 - [JT-NM](https://www.jt-nm.org/)
-  
+- OCA
+- SDVoE
 ### Books
 ### Papers
 - https://aimsalliance.org/wp-content/uploads/2019/04/AES67-SMPTE-ST-2110-Commonalities-and-Constraints-Updated-April-2019.pdf
@@ -182,8 +186,8 @@ Specifications:
 - https://www.avnetwork.com/features/ipmx-the-next-great-av-standard
 - https://www.avnetwork.com/news/deep-dive-do-you-know-the-difference-between-ipmx-and-smpte-st-2110-and-aes67
 - https://medium.com/canal-tech/why-we-use-a-multicast-ip-network-for-live-content-production-697a57b86766
-
-
+- https://sdvoe.org/why-smpte-2110-is-not-for-pro-av/
+- https://www.ipshowcase.org/wp-content/uploads/2018/11/Ievgen-Kostyukevich-Kostiukevych_IP_Showcase_AoIP_anatomy_14.09_final.pdf
 ### Newsletters
 - https://www.avnetwork.com/
 - https://www.tvtechnology.com/
@@ -198,6 +202,7 @@ Specifications:
 ### Events
 - InfoComm
 ## Miscellaneous
+- https://rhconsulting.uk/blog/networked-audio-products-2022/
 - [Network Engineering Stack Exchange](https://networkengineering.stackexchange.com/)
 - [Server Fault](https://serverfault.com/) - A question and answer site for system and network administrators.
 - [/r/Networking](https://www.reddit.com/r/networking/) - Reddit group for networking.
