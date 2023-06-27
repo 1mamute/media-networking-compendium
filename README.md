@@ -116,6 +116,8 @@ IPMX (Internet Protocol Media Experience) is a proposed set of open standards an
 ## IEEE 1588v2
 ## PTP & PTPv2
 ## IPTV
+## PulseAudio Networking
+https://www.freedesktop.org/wiki/Software/PulseAudio/Documentation/User/Network/
 ## RTMFP
 - https://github.com/zenomt/rtmfp-cpp
 ## Network Analysis
