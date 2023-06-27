@@ -124,6 +124,9 @@ IPMX (Internet Protocol Media Experience) is a proposed set of open standards an
 ## Audio Over IP / Audio Over Ethernet
 ## Audio Over Thread
 ## HDBaseT / Audio Over Cat
+## VBAN
+https://vb-audio.com/Services/support.htm#VBAN
+
 ## AES67
 Specifications:
 - https://github.com/bondagit/aes67-linux-daemon
