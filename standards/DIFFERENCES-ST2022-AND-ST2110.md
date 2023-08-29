@@ -1,0 +1,3 @@
+- https://www.riedel.net/fileadmin/user_upload/800-downloads/07-Guides/White_Paper_-_ST_2022-6_vs_ST_2110_final.pdf
+- https://www.aimsalliance.org/wp-content/uploads/2019/02/4.-AIMS-Reception-ISE-2019-ST2110-explained-Hildebrand.pdf
+- https://www.avnetwork.com/news/deep-dive-do-you-know-the-difference-between-ipmx-and-smpte-st-2110-and-aes67
